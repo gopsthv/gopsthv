@@ -2,6 +2,8 @@
 
 ### Aspiring Data Analyst | AI & Data Science Graduate
 
+🎓 B.Tech in Artificial Intelligence and Data Science — Sri Sairam Engineering College
+
 I'm an AI & Data Science graduate interested in transforming raw data into meaningful insights and supporting data-driven decisions.
 
 ### 🛠️ Technical Skills
