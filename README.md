@@ -1,6 +1,3 @@
-# Gopikadevi-J-A
-
-
 # Hi, I'm Gopikadevi! 👋
 
 ### Aspiring Data Analyst | AI & Data Science Graduate
